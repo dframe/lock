@@ -12,11 +12,11 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Dframe\\Lock\\": "src/",
+            "Dframe\\Lock\\": "src/"
         }
     },
     "require": {
-        "dusta/lock": "dev-master",
+        "dusta/lock": "dev-master"
     },
     "autoload-dev": {
         "psr-4": {
